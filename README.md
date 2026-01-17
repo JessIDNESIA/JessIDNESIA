@@ -1,87 +1,17 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is [Nama Anda] and I'm a <b>Backend Engineer & ERP Specialist</b>, from Indonesia.</p>
-
+<p align="left">My name is [Your Name] and I'm a Backend Engineer specializing in Laravel & ERP Solutions, from Indonesia 🇮🇩</p>
 <h2 align="left">About me</h2>
-
-<p align="left">
-✨ Creating bugs (and fixing them) since [Tahun Mulai] 
-
-
-
-
-📚 I'm currently learning <b>Advanced Microservices Architecture & Go</b> 
-
-
-
-
-🎯 Goals: Building high-performance ERP ecosystems that drive business growth 
-
-
-
-
-🎲 Fun fact: I believe clean code is like a good joke—it doesn't need an explanation
-</p>
-
+<p align="center">✨ Creating scalable backend systems since 2020<br>📚 I'm currently learning microservices architecture and advanced database optimization<br>🎯 Goals: Build enterprise-grade ERP systems that empower businesses<br>🎲 Fun fact: I debug with coffee ☕ and solve problems while sleeping 😴</p>
 <h2 align="left">I code with</h2>
-
-<div align="left">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
-</div>
-
-<h2 align="left">🏗️ What I Do Best</h2>
-
-ERP Architect: Merancang skema database kompleks untuk manajemen sumber daya yang tetap performan bahkan dengan jutaan baris data.
-
-API Specialist: Membangun integrasi yang kokoh untuk aplikasi mobile dan layanan pihak ketiga dengan standar keamanan tinggi (OAuth2/JWT).
-
-Optimization Junkie: Melakukan refactoring kode legacy menjadi arsitektur Service-Pattern yang ramping untuk meningkatkan skalabilitas.
-
-<h2 align="left">🚀 Highlight Projects</h2>
-
-📊 Enterprise Resource Planning (ERP) System
-
-Sistem manajemen sumber daya terpadu untuk skala manufaktur.
-
-Impact: Mengurangi waktu pelaporan manual sebesar 40% melalui sinkronisasi otomatis.
-
-Tech: Laravel 11, Livewire, PostgreSQL, Redis.
-
-🛡️ Financial API Gateway
-
-Bridge keamanan tinggi untuk transaksi finansial real-time.
-
-Impact: Menangani lebih dari 10rb+ request per menit dengan uptime 99.9%.
-
-Tech: Laravel, Passport, Sentry, Prometheus.
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[USER_ID]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[USER_ID]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-<h2 align="left">💬 Let's Connect!</h2>
-
-LinkedIn: linkedin.com/in/username
-
-Portfolio: yourportfolio.com
-
-Email: email@example.com
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> </div>
+<h2 align="left">Tech Stack & Expertise</h2>
+<table align="center"> <tr> <td align="center" width="200"> <strong>Backend Framework</strong><br> Laravel 10+, Lumen </td> <td align="center" width="200"> <strong>Database</strong><br> MySQL, PostgreSQL, MongoDB </td> <td align="center" width="200"> <strong>Caching & Queue</strong><br> Redis, RabbitMQ </td> </tr> <tr> <td align="center" width="200"> <strong>API Development</strong><br> RESTful, GraphQL, OAuth2 </td> <td align="center" width="200"> <strong>DevOps</strong><br> Docker, CI/CD, AWS </td> <td align="center" width="200"> <strong>Testing</strong><br> PHPUnit, Pest, TDD </td> </tr> <tr> <td align="center" width="200"> <strong>ERP Modules</strong><br> Inventory, Accounting, HR </td> <td align="center" width="200"> <strong>Payment Gateway</strong><br> Midtrans, Xendit, Stripe </td> <td align="center" width="200"> <strong>Real-time</strong><br> WebSockets, Pusher, Socket.io </td> </tr> </table>
+<h2 align="left">Featured Projects</h2>
+<details> <summary><b>🏢 Enterprise ERP System</b></summary> <br> <ul> <li>Full-featured ERP with inventory management, accounting, HR, and CRM modules</li> <li>Tech: Laravel 10, MySQL, Redis, Docker</li> <li>Handles 10k+ daily transactions with optimized queries</li> <li>Multi-tenant architecture with role-based access control</li> </ul> </details> <details> <summary><b>🛒 E-Commerce Backend API</b></summary> <br> <ul> <li>Scalable RESTful API for online marketplace</li> <li>Tech: Laravel, PostgreSQL, Redis, Elasticsearch</li> <li>Integrated payment gateways (Midtrans, Xendit)</li> <li>Real-time order tracking & notification system</li> </ul> </details> <details> <summary><b>📊 Business Intelligence Dashboard</b></summary> <br> <ul> <li>Data analytics platform for business insights</li> <li>Tech: Laravel, MongoDB, Chart.js, WebSockets</li> <li>Real-time data visualization & reporting</li> <li>Export to Excel, PDF with custom templates</li> </ul> </details>
+<h2 align="left">GitHub Stats</h2>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
+<h2 align="left">Let's Connect!</h2>
+<div align="left"> <a href="https://www.linkedin.com/in/yourprofile" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> <a href="https://twitter.com/yourhandle" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /> </a> <a href="https://discord.com/users/yourid" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /> </a> </div>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&" /> </div>
+<h3 align="center">💼 Open for freelance projects and collaboration!</h3>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
