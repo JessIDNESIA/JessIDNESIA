@@ -1,122 +1,46 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=200&section=header&text=Laravel%20Backend%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Elegant%20Solutions%20with%20Laravel&descAlignY=55&descAlign=50" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2800&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+a+Laravel+Expert;Building+Elegant+Web+Solutions;The+PHP+Framework+For+Web+Artisans" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR4dGVuZHVqbzJmdWM3ZGxoY2FuOXN3eWJnNmJ3ZnNkOGZ5cHp3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Laravel Animation"/>
-</p>
-
-<p align="center">
-  <strong>My name is [Your Name]</strong> 🚀<br>
-  Laravel Backend Engineer | ERP Specialist | API Architect<br>
-  📍 Indonesia 🇮🇩 | ❤️ Powered by Laravel
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Laravel-Master-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Specialist-00D9FF?style=for-the-badge&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP-Developer-FB503B?style=for-the-badge&logo=enterprise&logoColor=white" />
-</div>
-
-###
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Why+Laravel%3F+%E2%9C%A8" alt="Why Laravel" />
-</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel"/>
-      <br><br>
-      <h3>🎨 Elegant Syntax</h3>
-      <p><sub>Clean, expressive code that makes development a joy. Laravel's beautiful syntax allows you to write readable and maintainable code effortlessly.</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="80" alt="Laravel Icon"/>
-      <br><br>
-      <h3>⚡ Lightning Fast</h3>
-      <p><sub>Built-in caching, queue systems, and Octane support. Handle thousands of requests per second with optimized performance.</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://laravel.com/img/logomark.min.svg" width="80" alt="Laravel Mark"/>
-      <br><br>
-      <h3>🔒 Security First</h3>
-      <p><sub>CSRF protection, SQL injection prevention, XSS protection out of the box. Laravel keeps your application secure by default.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🛠️ Rich Ecosystem</h3>
-      <p><sub>Composer packages, Laravel Forge, Vapor, Nova, Livewire, Inertia.js - everything you need in one place.</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📦 Built-in Features</h3>
-      <p><sub>Authentication, Authorization, Queues, Email, File Storage, Task Scheduling - no need for third-party packages!</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🌍 Global Community</h3>
-      <p><sub>Massive community support, extensive documentation, Laracasts tutorials, and active forums worldwide.</sub></p>
-    </td>
-  </tr>
-</table>
-
-###
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=About+Me+%F0%9F%92%BC" alt="About Me" />
-</h2>
-
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
-
-```php
-<?php
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=200&section=header&text=Laravel%20Backend%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Elegant%20Solutions%20with%20Laravel&descAlignY=55&descAlign=50" /> </div> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2800&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+a+Laravel+Expert;Building+Elegant+Web+Solutions;The+PHP+Framework+For+Web+Artisans" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Laravel Team Coding"/> </p> <p align="center"> <strong>My name is [Your Name]</strong> 🚀<br> Laravel Backend Engineer | ERP Specialist | API Architect<br> 📍 Indonesia 🇮🇩 | ❤️ Powered by Laravel </p> <div align="center"> <img src="https://img.shields.io/badge/Laravel-Master-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Specialist-00D9FF?style=for-the-badge&logo=serverless&logoColor=white" /> <img src="https://img.shields.io/badge/ERP-Developer-FB503B?style=for-the-badge&logo=enterprise&logoColor=white" /> </div>
+<h2 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Why+Laravel%3F+%E2%9C%A8" alt="Why Laravel" /> </h2> <table align="center"> <tr> <td align="center" width="33%"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel"/> <br><br> <h3>🎨 Elegant Syntax</h3> <p><sub>Clean, expressive code that makes development a joy. Laravel's beautiful syntax allows you to write readable and maintainable code effortlessly.</sub></p> </td> <td align="center" width="33%"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="80" alt="Laravel Icon"/> <br><br> <h3>⚡ Lightning Fast</h3> <p><sub>Built-in caching, queue systems, and Octane support. Handle thousands of requests per second with optimized performance.</sub></p> </td> <td align="center" width="33%"> <img src="https://laravel.com/img/logomark.min.svg" width="80" alt="Laravel Mark"/> <br><br> <h3>🔒 Security First</h3> <p><sub>CSRF protection, SQL injection prevention, XSS protection out of the box. Laravel keeps your application secure by default.</sub></p> </td> </tr> <tr> <td align="center" width="33%"> <h3>🛠️ Rich Ecosystem</h3> <p><sub>Composer packages, Laravel Forge, Vapor, Nova, Livewire, Inertia.js - everything you need in one place.</sub></p> </td> <td align="center" width="33%"> <h3>📦 Built-in Features</h3> <p><sub>Authentication, Authorization, Queues, Email, File Storage, Task Scheduling - no need for third-party packages!</sub></p> </td> <td align="center" width="33%"> <h3>🌍 Global Community</h3> <p><sub>Massive community support, extensive documentation, Laracasts tutorials, and active forums worldwide.</sub></p> </td> </tr> </table>
+<h2 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=About+Me+%F0%9F%92%BC" alt="About Me" /> </h2> <img align="right" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Team Coding"/> ```php <?php
 namespace App\Engineers;
 
 class LaravelBackendEngineer
 {
-    public function __construct(
-        public string $name = '[Your Name]',
-        public string $role = 'Laravel Backend Engineer',
-        public array $specialties = [
-            'RESTful API Development',
-            'ERP System Architecture',
-            'Database Optimization',
-            'Microservices with Laravel',
-        ],
-        public int $experienceSince = 2020,
-    ) {}
+public function __construct(
+public string $name = '[Your Name]',
+public string $role = 'Laravel Backend Engineer',
+public array $specialties = [
+'RESTful API Development',
+'ERP System Architecture',
+'Database Optimization',
+'Microservices with Laravel',
+],
+public int $experienceSince = 2020,
+) {}
 
-    public function getDailyRoutine(): array
-    {
-        return [
-            '☕ Coffee First',
-            '💻 Code with Laravel',
-            '🐛 Debug with Ray',
-            '🚀 Deploy with Forge',
-            '😴 Dream in PHP',
-        ];
-    }
-
-    public function getCurrentGoals(): string
-    {
-        return 'Building scalable ERP systems that 
-                empower businesses globally! 🌍';
-    }
-
-    public function getFunFact(): string
-    {
-        return 'I can fix bugs faster than 
-                `php artisan optimize:clear` runs! ⚡';
-    }
+public function getDailyRoutine(): array
+{
+    return [
+        '☕ Coffee First',
+        '💻 Code with Laravel',
+        '🐛 Debug with Ray',
+        '🚀 Deploy with Forge',
+        '😴 Dream in PHP',
+    ];
 }
-```
+
+public function getCurrentGoals(): string
+{
+    return 'Building scalable ERP systems that 
+            empower businesses globally! 🌍';
+}
+
+public function getFunFact(): string
+{
+    return 'I can fix bugs faster than 
+            `php artisan optimize:clear` runs! ⚡';
+}
+}
+
 
 ###
 
