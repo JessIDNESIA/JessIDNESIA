@@ -11,7 +11,7 @@ export default function ProfileGenerator() {
     github: '',
     linkedin: '',
     email: '',
-    website: '',
+    website: '', 
     
     // Skills
     primarySkills: ['Laravel', 'PHP', 'MySQL'],
