@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">My name is [Your Name] and I'm a Backend Engineer specializing in Laravel & ERP Solutions, from Indonesia 🇮🇩</p>
+<p align="center">My name is Jose Shabra and I'm a Backend Engineer specializing in Laravel & ERP Solutions, from Indonesia 🇮🇩</p>
 
 ###
 
@@ -63,29 +63,23 @@
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/database.png" width="48" height="48" alt="Database"/>
       <br><strong>Database</strong><br>
-      <sub>MySQL, PostgreSQL, MongoDB</sub>
+      <sub>MySQL, PostgreSQL</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/speed.png" width="48" height="48" alt="Caching"/>
-      <br><strong>Caching & Queue</strong><br>
-      <sub>Redis, RabbitMQ</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/api.png" width="48" height="48" alt="API"/>
       <br><strong>API Development</strong><br>
-      <sub>RESTful, GraphQL, OAuth2</sub>
+      <sub>RESTful</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="DevOps"/>
-      <br><strong>DevOps</strong><br>
-      <sub>Docker, CI/CD, AWS</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/test-passed.png" width="48" height="48" alt="Testing"/>
-      <br><strong>Testing</strong><br>
-      <sub>PHPUnit, Pest, TDD</sub>
     </td>
   </tr>
   <tr>
@@ -96,13 +90,9 @@
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/card-payment.png" width="48" height="48" alt="Payment"/>
-      <br><strong>Payment Gateway</strong><br>
-      <sub>Midtrans, Xendit, Stripe</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/realtime-protection.png" width="48" height="48" alt="Realtime"/>
-      <br><strong>Real-time</strong><br>
-      <sub>WebSockets, Pusher, Socket.io</sub>
     </td>
   </tr>
 </table>
